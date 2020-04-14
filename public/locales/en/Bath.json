@@ -1,0 +1,8 @@
+{
+  "Bath": "Bath",
+  "Voltage": "Voltage",
+  "Power" : "Power",
+  "Temprature": "Temprature",
+  "Time": "Time",
+  "State": "Current Stand State"
+}
